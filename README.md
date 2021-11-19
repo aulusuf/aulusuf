@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @aulusuf
-- 👀 I’m interested in Designing and Programming
-- 🌱 I’m currently learning UI/UX Design and Javascript
+- 👋 Hi, I am @aulusuf
+- 👀 Interested in Designing and Programming
+- 🌱 I am currently learning UI/UX Design and Javascript
+- Managing database with PostgreSQL DBMS, creating API with Express.js, Comm with backend using Node.js, and designing the front end with React.js
 - 📫 You can reach me with my mail at aulusuf@gmail.com
 
 <!---

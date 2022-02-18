@@ -1,4 +1,4 @@
-<h1 align="center"> Hi There, My Name is Muhammad Yusuf Auliya <span><img height=75 src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="hello"/></span></h1>
+<h1 align="center"> Hi There, My Name is Muhammad Yusuf Auliya <span><img height=50 src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" alt="hello"/></span></h1>
 <p align="center"><i>"Never Ending Learner"</i></p>
 
 - 👀 Interested in Designing and Web Development
